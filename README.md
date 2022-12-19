@@ -14,7 +14,8 @@ Strategic recommendations to imrpove customer satisfaction across those 3 major 
 ## Solution Deliverables
 The dashboard was built using Power BI Version: 2.112.603.0 64-bit (December 2022)
 
-### Deliverables include -
-Final report that includes intuitive and compelling visuals to tell the story.
-Data model: Star schema (with 6 many-to-1 relationships).
-All Power Query tables: 1 fact table and 6 dimension tables.
+Deliverables include -
+
+1. Final report that includes intuitive and compelling visuals to tell the story.
+2. Data model: Star schema (with 6 many-to-1 relationships).
+3. All Power Query tables: 1 fact table and 6 dimension tables.
