@@ -12,7 +12,7 @@ Customer satisfaction scores from 120,000+ airline passengers, including additio
 4. Strategic recommendations to imrpove customer satisfaction across those 3 major contributors.
 
 ## Solution Deliverables
-The dashboard was built using Power BI Version: 2.112.603.0 64-bit (December 2022).
+I developed the dashboard using Power BI (Version: 2.112.603.0 64-bit, December 2022).
 
 Deliverables include -
 
