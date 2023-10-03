@@ -10,6 +10,7 @@ Customer satisfaction scores from 120,000+ airline passengers of a hypothetical 
 2. Key dissatisfied customer segements.
 3. Major contributors to customer dissatisfaction.
 4. Strategic recommendations to imrpove customer satisfaction across those 3 major contributors.
+<img width="774" alt="final_report" src="https://github.com/johnuzoma/Uji-Airline-Passenger-Satisfaction/assets/18267074/c361e000-ccb0-4cdb-9c11-03513b647cf7">
 
 ## Solution Deliverables
 I developed the dashboard using Power BI (Version: 2.112.603.0 64-bit, December 2022).
