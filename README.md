@@ -1,4 +1,4 @@
-# Uji-Airline-Passenger-Satisfaction
+# Airline-Passenger-Satisfaction
 
 Data source: https://mavenanalytics.io/data-playground
 
