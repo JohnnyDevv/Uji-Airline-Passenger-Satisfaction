@@ -25,6 +25,6 @@ Deliverables include -
 
 1. Data import from csv file.
 2. Data transformed in Power Query and loaded to data model.
-3. Six many-to-one relationships created to form a start schema.
+3. Six many-to-one relationships created to form a star schema.
 4. Visuals created in report view, enriched with relevant DAX measures.
 
