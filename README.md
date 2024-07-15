@@ -17,7 +17,7 @@ Using Power BI, I created a dashboard showcasing customer satisfaction scores fr
 <img width="774" alt="final_report" src="https://github.com/johnuzoma/Uji-Airline-Passenger-Satisfaction/assets/18267074/c361e000-ccb0-4cdb-9c11-03513b647cf7">
 
 ### Solution Deliverables
-They can be accessed via the "solution" folder on the left-hand side.
+They can be accessed via the [solution](https://github.com/johnuzoma/Airline-Passenger-Satisfaction/tree/main/solution) folder.
 
 Deliverables include -
 
