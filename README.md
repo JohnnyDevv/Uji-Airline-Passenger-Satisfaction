@@ -8,7 +8,10 @@ Using Power BI, I created a dashboard showcasing customer satisfaction scores fr
 3. Six many-to-one relationships created to form a star schema.
 4. Visuals created in report view, enriched with relevant DAX measures.
 
-### What the dashboard shows
+### Data model I implemented (star schema)
+![image](https://github.com/user-attachments/assets/2f0d923f-5080-49dd-b34c-97bbedbee93c)
+
+### Data visualization
 
 1. Proportions of customers across different segments such as flight class, age split, cutomer type and purpose of travel.
 2. Key dissatisfied customer segements.
